@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhrbXZ2N28yMmdxNWdhNzBrcnl2dno5bmVyc2wwOHU4ODRvN3pnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WjMnQiDQHbK6Y/giphy.gif" width="600"/>
+</p>
+
+<p align="center">
   <img src="https://i.pinimg.com/originals/2c/5f/6e/2c5f6e6e9c4e6f5d7e8f0f6b0c0f0f0f.gif" width="600"/>
 </p>
 
